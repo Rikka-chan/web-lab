@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="cross-win" class="modal">
+    <!--Этот div будет показан при победе крестиков-->
+</div>
+
+<div id="ring-win" class="modal">
+    <!--Этот div показан при победе ноликов-->
+</div>
+
+<div id="no-win" class="modal">
+    <!--Если ничья то будет отображен этот div-->
+</div>
+
+<div id="cross" class="pic" style="display: none;">
+    <!--Этот div будет помещен в div  с классом cell при ходе крестиков-->
+</div>
+<div id="ring" class="pic" style="display: none;">
+    <!--Этот div будет помещен в div  с классом cell при ходе ноликов-->
+</div>
+
+
+<!--Игровое поле-->
+<div class="field" id="playfield">
+    <div class="row">
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+
+    <div class="row">
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+
+    <div class="row">
+        <div class="cell"></div>
+        <div class="cell"></div>
+        <div class="cell"></div>
+    </div>
+</div>
+<script src="tick-tac-toe.js"></script>
+</body>
+</html>
