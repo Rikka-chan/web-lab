@@ -94,6 +94,7 @@ function check(){
     if(is_full){
         return matrix[0][matrix.length -1];
     }
+    if (is_complete) return 'no';
     return null;
 }
 
