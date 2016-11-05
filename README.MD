@@ -5,3 +5,18 @@
 
 Вы можете менять структуру шаблона, но только помните про классы и id.
 
+На 25 просто заставьте это работать
+![25](https://raw.githubusercontent.com/Rikka-chan/web-lab/master/examples/25.png)
+
+
+На 35 сделай все красиво и на весь экран, сделай нормальные сообщения(я бы сделал модальными окнами, но кто я такой, чтобы тебе указывать)
+В общем, все должно выглядеть ровненько без сдвигов. Если преподаватель решит, что твоя работа выглядит симпатично, то ты получишь 35 и больше
+![35](https://raw.githubusercontent.com/Rikka-chan/web-lab/master/examples/351.png)
+![35](https://raw.githubusercontent.com/Rikka-chan/web-lab/master/examples/352.png)
+
+На 45 сделай все, что выше, но адаптивно. Рекомендую использовать bootstrap, но можешь сам писать медиа-запросы^_^
+![45](https://raw.githubusercontent.com/Rikka-chan/web-lab/master/examples/451.png)
+![45](https://raw.githubusercontent.com/Rikka-chan/web-lab/master/examples/452.png)
+
+Не думайте, что мои примеры- что-то стоящие. Тут надо сделать все приятным для глаз, ведь это не консоль.
+Ваши баллы зависят только от впечатлений преподавателя. 
